@@ -1,0 +1,13 @@
+# Layout
+layout : center
+
+# Look and feel
+logo : assets/images/logo.png
+theme : night
+
+# Behavior
+transition : none
+published : true
+
+
+
